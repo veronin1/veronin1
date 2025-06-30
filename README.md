@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**veronin1/veronin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```                                                                
+                                                ,,              
+                                                db              
+                                                                
+`7M'   `MF'.gP"Ya `7Mb,od8 ,pW"Wq.`7MMpMMMb.  `7MM  `7MMpMMMb.  
+  VA   ,V ,M'   Yb  MM' "'6W'   `Wb MM    MM    MM    MM    MM  
+   VA ,V  8M""""""  MM    8M     M8 MM    MM    MM    MM    MM  
+    VVV   YM.    ,  MM    YA.   ,A9 MM    MM    MM    MM    MM  
+     W     `Mbmmd'.JMML.   `Ybmd9'.JMML  JMML..JMML..JMML  JMML.
+                                                                
+.``.
+  `.`._
+    `. `._
+      `. .`-.._
+        `.`-.._`-.._
+          `-.._`-.._`--.._                      ``.
+               `-.._`-.._ `--._                  \ `.
+                    `-._ `-._  `-.    .          |   \
+                        `-.._`-._ `-._\`.__...---'    `.__
+                             `._                           `--.._
+                                \ `-.  `--..__                   _`-._
+                   LGB           | .-.  ..     ``-- ...____    .`o)   '.
+                                /.'   `'  `-._  /`-.._     |||| -._..-'
+                                              `(      \      __..-'
+                                                       |   /
+                                                       |  /
+                                                      / .'
+                                                     /.'
+```
